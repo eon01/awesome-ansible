@@ -26,6 +26,7 @@ A collaborative curated list of awesome Ansible resources
 - [Mastering Ansible - Second Edition](https://www.packtpub.com/product/mastering-ansible-second-edition/9781787125681)
 - [OpenStack Administration with Ansible](https://www.packtpub.com/product/openstack-administration-with-ansible/9781785884610)
 - [Practical Ansible 2](https://www.packtpub.com/product/practical-ansible-2/9781789807462)
+- [The Ansible Workshop: Hands-On Learning For Rapid Mastery](https://a.co/d/fn9xUvt)
 
 ## Roles
 
